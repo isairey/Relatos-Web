@@ -67,7 +67,7 @@ La versión final incluye compatibilidad completa con caracteres especiales, ace
 # 📂 Estructura del Proyecto
 
 ```bash
-📦 LectorTodoRelatos
+📦Relatos-Web
 ├── 📂 Resources
 │   ├── app.js
 │   ├── ventanas
@@ -125,13 +125,13 @@ La versión final incluye compatibilidad completa con caracteres especiales, ace
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/isair/lector-todorelatos.git
+git clone https://github.com/isairey/Relatos-Web.git
 ```
 
 ### 2️⃣ Entrar al proyecto
 
 ```bash
-cd lector-todorelatos
+cd Relatos-Web
 ```
 
 ### 3️⃣ Abrir con Titanium Studio
@@ -176,7 +176,7 @@ o en un dispositivo físico Android.
 
 <div align="center">
 
-## ISAI REYES PEÑA
+## ISAI REYES 
 
 **Desarrollador de Software | Aplicaciones Móviles | Desarrollo Web | Inteligencia Artificial**
 
@@ -205,6 +205,6 @@ Puedes utilizarlo, modificarlo y distribuirlo libremente respetando los término
 
 ### ⭐ Si te gusta este proyecto, considera darle una estrella en GitHub ⭐
 
-**Desarrollado con ❤️ por ISAI REYES PEÑA**
+**Desarrollado por ISAI REYES **
 
 </div>
