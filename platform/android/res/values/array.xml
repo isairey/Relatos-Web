@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="listNames">
+		<item>10 puntos</item>
+		<item>12 puntos</item>
+		<item>14 puntos</item>
+		<item>18 puntos</item>
+		<item>22 puntos</item>
+		<item>26 puntos</item>
+		<item>30 puntos</item>
+	</string-array>
+	<string-array name="listValues">
+		<item>10</item>
+		<item>12</item>
+		<item>14</item>
+		<item>18</item>
+		<item>22</item>
+		<item>26</item>
+		<item>30</item>
+	</string-array>
+</resources>

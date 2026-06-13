@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Configuración">
+	<PreferenceCategory android:title="Opciones del visor">
+        <ListPreference
+            android:title="Tamaño del texto"
+            android:summary="Selecciona el tamaño de texto del visor de relatos"
+            android:key="textsize"
+		    android:entries="@array/listNames"
+		    android:entryValues="@array/listValues"
+		    />
+		<CheckBoxPreference
+            android:title="Modo noche"
+            android:defaultValue="true"
+            android:summary="Texto blanco sobre fondo negro"
+            android:key="nightmode" />
+	</PreferenceCategory>
+</PreferenceScreen>
